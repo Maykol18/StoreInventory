@@ -32,7 +32,7 @@ cd storeinventory
 ```
 3. Actualiza la base de datos
 ```bash
-dotnet ef update database
+dotnet ef database update
 ```
 3. Ejecutar la aplicación:
 
