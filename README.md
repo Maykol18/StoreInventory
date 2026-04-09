@@ -86,7 +86,9 @@ Body:
 ```json
 {
   "name": "Laptop",
-  "price": 1200
+  "price": 1200,
+  "categoryId": 1,
+  "proveedorId": 1
 }
 ```
 
