@@ -87,7 +87,7 @@ Body:
 {
   "name": "Laptop",
   "price": 1200,
-  "categoryId": 1,
+  "categoriaId": 1,
   "proveedorId": 1
 }
 ```
